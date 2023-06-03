@@ -94,6 +94,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Lazada                       |     Lazada Dev     |                   [Link](https://open.lazada.com/doc/doc.htm)                   | `Aktif` | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada.                 | `apiKey` |
 | Shopee                       |     Shopee Dev     |                    [Link](https://open.shopee.com/documents)                    | `Aktif` | API resmi Shopee untuk integrasi berbagai layanan dari Shopee.                                                    | `apiKey` |
 | Blibli                       |   Blibli.com Dev   |                   [Link](https://seller-api.blibli.com/home)                    | `Aktif` | API untuk penjual di Blibli.                                                                                      | `apiKey` |
+| Bhinneka                     |  Bhinneka.com Dev  |                       [Link](http://mock-api.bhinneka.com/)                     | `Aktif` | API ini memungkinkan anda untuk mengintegrasikan sistem anda dengan Bhinneka.com.                                 | `apiKey` |
 
 ### Finansial
 

@@ -74,6 +74,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
 | Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
 | Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
+| Bhinneka  |  Bhinneka.com Dev  |   [Link](http://mock-api.bhinneka.com/)     | `Active` | This API allows you to integrate your system with Bhinneka.com.  | `apiKey` |
 
 ### Entertainment
 
